@@ -3,7 +3,7 @@
 ### Automatically (CLI / Plugman)
 
 ```
-$ cordova plugin add https://github.com/nchutchind/cordova-plugin-app-launcher.git
+$ cordova plugin add https://github.com/ashutosh-k/cordova-ios-app-launcher.git
 ```
 and then (this step will modify your project):
 ```
