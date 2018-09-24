@@ -1,0 +1,45 @@
+{
+  "_from": "git+https://github.com/ashutosh-k/cordova-ios-app-launcher.git",
+  "_id": "cordova-ios-app-launcher@0.4.0",
+  "_inBundle": false,
+  "_location": "/cordova-ios-app-launcher",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/ashutosh-k/cordova-ios-app-launcher.git",
+    "rawSpec": "https://github.com/ashutosh-k/cordova-ios-app-launcher.git",
+    "saveSpec": "git+https://github.com/ashutosh-k/cordova-ios-app-launcher.git",
+    "fetchSpec": "https://github.com/ashutosh-k/cordova-ios-app-launcher.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ashutosh-k/cordova-ios-app-launcher.git#f3c4509441dc88805aa047bd373970f9a915ed86",
+  "_spec": "https://github.com/ashutosh-k/cordova-ios-app-launcher.git",
+  "author": {
+    "name": "Ashutosh"
+  },
+  "bugs": {
+    "url": "https://github.com/ashutosh-k/cordova-ios-app-launcher/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This plugin allows you to see if other apps are installed and launch them. On Android, you can send extras to the launched Activity and receive result data (if available), as well as retrieve a list of applications that can open a specified uri.",
+  "homepage": "https://github.com/ashutosh-k/cordova-ios-app-launcher#readme",
+  "keywords": [
+    "cordova",
+    "launcher",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-ios-app-launcher",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh-k/cordova-ios-app-launcher.git"
+  },
+  "version": "0.0.1"
+}
